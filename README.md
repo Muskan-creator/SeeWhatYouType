@@ -17,7 +17,7 @@
 
 ##  How website looks like
 
-<img src ="https://user-images.githubusercontent.com/59757988/211207759-58236623-1397-40a6-83fb-6371eace3a25.png">
+<img src ="https://user-images.githubusercontent.com/59757988/211207759-58236623-1397-40a6-83fb-6371eace3a25.png" width="400">
 
 
 ## This project took around 2 hours to complete .
